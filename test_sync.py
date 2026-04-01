@@ -1,3 +1,5 @@
 print("cat")
 print("dog")
 print("cow")
+print("donkey")
+print("monkey")
